@@ -30,8 +30,7 @@ I combine deep technical expertise with a strong passion for tech community lead
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saidelhadidi&show_icons=true&theme=radium&hide_border=true" alt="Said's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saidelhadidi&theme=radium&hide_border=true" alt="Said's GitHub Streak" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=saidelhadidi&theme=radium&hide_border=true" alt="Said's GitHub Streak" width="48%" />
 </p>
 
 ### 🤝 Connect with me
